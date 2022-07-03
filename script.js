@@ -9,13 +9,13 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing",{
-        strings: ["Student" , "Competitive Programmer" , "Web Developer" , "Student" , "Competitive Programmer"],
+        strings: ["Student" ,  "Web Developer" , "Competitive Programmer" , "Student" , "Web Developer" ],
         typeSpeed:100,
         backSpeed:60,
         loop: true
     });
     var typedl = new Typed(".typing-2",{
-        strings: ["Student" , "Competitive Programmer" , "Web Developer" , "Student" , "Competitive Programmer"],
+        strings: ["Student" , "Web Developer" ,  "Competitive Programmer" ,"Student" , "Web Developer" ],
         typeSpeed:100,
         backSpeed:60,
         loop: true
